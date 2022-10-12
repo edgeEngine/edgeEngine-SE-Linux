@@ -25,11 +25,6 @@ tar xvf edgeEngine-SE-Linux-ARM-v3.0.0.tar
 ```
 7. Please visit https://developer.mimik.com and create your account and get more information
 
-## NOTE:
-* A directory may be made after untaring. Navigate into that directory to find `start.sh` script 
-- Do not close terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
-- To stop edgeEngine simply close or use keyboard shortcut CTRL + C in terminal window where edgeEngine is running
-
 
 
 # edgeEngine-SE-Linux-ARM
