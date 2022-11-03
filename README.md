@@ -4,7 +4,7 @@ edgeEngine for Linux-x86 and AMD
 
 # Installation Guide
 1. Download latest release for edgeEngine-SE-Linux  [HERE](https://github.com/edgeEngine/edgeEngine-SE-Linux/releases)
-2. Create new directory
+2. Create a new directory
 3. Move package to newly created directory 
 4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. *Untar package (ex:)
