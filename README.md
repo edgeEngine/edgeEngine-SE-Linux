@@ -24,7 +24,7 @@ tar xvf edgeEngine-SE-Linux-ARM-v3.0.0.tar
 ```
 ./start.sh
 ```
-7. Please visit https://developer.mimik.com and create your account and get more information
+7. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
 
 
 ## NOTE:
