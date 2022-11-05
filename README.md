@@ -4,7 +4,7 @@ edgeEngine for Linux-x86 and AMD
 
 ## Before you start  
 
- [explore develoepr-doccumentation](developer.mimik.com)
+ [explore the develoepr-doccumentation](developer.mimik.com)
  
  [sign up and create a mimik developer console account](https://developer.mimik.com/console/create_account)
 
