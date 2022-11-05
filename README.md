@@ -36,7 +36,7 @@ tar xvf edgeEngine-SE-Linux-ARM-v3.0.0.tar
 
 ## Notes:
 * A directory may be made after untaring. Navigate into that directory to find `start.sh` script 
-- Do not close terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
-- To stop edgeEngine simply close or use keyboard shortcut CTRL + C in terminal window where edgeEngine is running
+- Do not closet he terminal window where edgeEngine is running. Closing this window will terminate edgeEngine process
+- To stop edgeEngine, simply close or use keyboard shortcut CTRL + C in terminal window where edgeEngine is running
 
 
