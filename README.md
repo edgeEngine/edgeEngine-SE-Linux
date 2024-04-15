@@ -18,14 +18,13 @@ edgeEngine for Linux-x86 and AMD
 4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
 5. *Untar package (ex:)
 
-For edgeEngine-SE-Linux-x86
 ```
-tar xvf edgeEngine-SE-Linux-x86-v3.0.0.tar
+tar xvf edgeEngine-SE-linux-developer-x86-v3.10.0.tar
 ```
 
 For edgeEngine-SE-Linux-ARM
 ```
-tar xvf edgeEngine-SE-Linux-ARM-v3.0.0.tar
+tar xvf edgeEngine-SE-linux-developer-arm-v3.10.0.tar
 ```
 
 
