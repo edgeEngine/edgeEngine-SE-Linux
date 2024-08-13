@@ -1,9 +1,13 @@
+#### Important NOTE:
+**This edgeEngine-SE-Linux repository has been archived and is no longer maintained.**
+Please visit our new repository [mimOE-SE-linux](https://github.com/mimik-mimOE/mimOE-SE-Linux) for the latest updates.
+
 # edgeEngine-SE-Linux
 
 edgeEngine-SE-Linux Standard Edition for Ubuntu Linux supports the following platforms and architectures.
 1. edgeEngine for generic Linux x86_64 on Intel and AMD for Ubuntu 20.04 and above releases.
 2. edgeEngine for Linux-ARM aarch64 for Ubuntu 20.04.2 LTS and above releases on Raspberry Pi 4.
-3. edgeEngine for Linux-ARM aarch64 for Ubuntu 20.04.2 LTS and above releases on NVIDIA Jetson including Jetson Orin Nano.
+3. edgeEngine for Linux-ARM aarch64 for Ubuntu 22.04.2 LTS and above releases on NVIDIA Jetson including Jetson Orin Nano.
 
 ## Before you start
 
