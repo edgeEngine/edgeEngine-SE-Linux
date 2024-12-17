@@ -2,7 +2,7 @@
 
 #### 🚨 **Important NOTE:** 🚨
 **This edgeEngine-SE-Linux repository has been archived and is no longer maintained.**  
-Please visit our new repository [mimOE-SE-Linux](https://github.com/mimik-mimOE/mimOE-SE-Linux) for the latest updates.
+Please visit our new repository [mim-OE-SE-Linux](https://github.com/mim-OE/mim-OE-SE-Linux) for the latest updates.
 
 ---
 
